@@ -1,2 +1,2 @@
-# autheticator.r
+# authenticator.r
 Authenticator for local database
